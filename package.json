@@ -1,6 +1,6 @@
 {
   "name": "opencode-feature-dev",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "OpenCode plugin that ports Claude Code's feature-dev workflow.",
   "license": "MIT",
   "type": "module",
