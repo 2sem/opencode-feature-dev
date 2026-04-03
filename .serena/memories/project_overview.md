@@ -1,0 +1,1 @@
+This project directory is currently effectively empty except for .serena/. There is no application source code checked in yet. Treat it as a scratch workspace unless the user later adds files or points to another repo.

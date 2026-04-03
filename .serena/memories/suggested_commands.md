@@ -1,0 +1,1 @@
+Useful Darwin shell commands: ls, pwd, mkdir, rm, cp, mv, git, xcrun, npm, npx, bun. For this workspace specifically, there are currently no project-local build, test, lint, or run commands because no source files are present.

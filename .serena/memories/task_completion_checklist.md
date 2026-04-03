@@ -1,0 +1,1 @@
+Since this workspace has no source yet, completion checks are task-specific. For config-only changes, verify the target file was updated correctly and note any restart/reload needed for the external tool to pick up the change.

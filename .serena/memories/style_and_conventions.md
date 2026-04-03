@@ -1,0 +1,1 @@
+No repository-specific code style or conventions are present yet because the workspace is empty. Follow user-level conventions and any future repo-local AGENTS.md or config files when code is added.
